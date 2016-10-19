@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Oct 18 17:32:43 CEST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0157-d86c-603e-000003557a00 
+on database directory /home/m2miage/lemaireg/databases/libraryDb with class loader sun.misc.Launcher$AppClassLoader@42a57993 
+Loaded from file:/local/lemaireg/TA/de.vogella.jpa.simple/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_101-b13
+user.dir=/local/lemaireg/TA/de.vogella.jpa.simple
+os.name=Linux
+os.arch=amd64
+os.version=4.4.0-38-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
