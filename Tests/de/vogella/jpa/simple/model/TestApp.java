@@ -18,6 +18,7 @@ public class TestApp {
 	private static EntityManagerFactory factory;
 	private static boolean set = false;
 
+	@SuppressWarnings("unchecked")
 	@Before
 	public void setUp() throws Exception {
 		if (!set) {
@@ -80,6 +81,7 @@ public class TestApp {
 		em.close();
 	}
 
+	@SuppressWarnings("unchecked")
 	@Test
 	public void createBooksAndAuthors() {
 		EntityManager em = factory.createEntityManager();
